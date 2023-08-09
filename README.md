@@ -1,6 +1,6 @@
 # north-ladder-pms
 
-**Base URL** : http://54.173.248.174:3000
+**Base URL** : http://54.173.248.174
 
 ## ENDPOINTS:
 
