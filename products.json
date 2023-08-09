@@ -1,0 +1,52 @@
+[
+  {
+    "id": "zBERs",
+    "productName": "Laptop",
+    "productDescription": "High-performance laptop with advanced features.",
+    "price": 100,
+    "category": "Electronics",
+    "stockQuantity": 10,
+    "createdAt": 1691570943023,
+    "updatedAt": 1691571825965
+  },
+  {
+    "id": "FtSqj",
+    "productName": "T-shirt",
+    "productDescription": "Comfortable cotton t-shirt in various colors.",
+    "price": 14.99,
+    "category": "Clothing",
+    "stockQuantity": 100,
+    "createdAt": 1691570995342,
+    "updatedAt": 1691570995342
+  },
+  {
+    "id": "0zW8B",
+    "productName": "T-shirt",
+    "productDescription": "Comfortable cotton t-shirt in various colors.",
+    "price": 14.99,
+    "category": "Clothing",
+    "stockQuantity": 100,
+    "createdAt": 1691571054427,
+    "updatedAt": 1691571054427
+  },
+  {
+    "id": "8jlOT",
+    "productName": "Book",
+    "productDescription": "Bestselling novel with captivating storyline.",
+    "price": 19.95,
+    "category": "Books",
+    "stockQuantity": 25,
+    "createdAt": 1691571075669,
+    "updatedAt": 1691571075669
+  },
+  {
+    "id": "UV1tO",
+    "productName": "Apples",
+    "productDescription": "Fresh and juicy apples from local orchards.",
+    "price": 2.49,
+    "category": "Grocery",
+    "stockQuantity": 150,
+    "createdAt": 1691571121256,
+    "updatedAt": 1691571121256
+  }
+]
