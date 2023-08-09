@@ -4,6 +4,8 @@
 
 **NOTE** : Utilize sample_product_data.json to test the APIs, but start by adding a product.
 
+POSTMAN EXPORT : Available in file **north-ladder-pms.postman_collection.json**
+
 ## ENDPOINTS:
 
 ### - Add Product
