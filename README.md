@@ -2,6 +2,8 @@
 
 **Base URL** : http://54.173.248.174
 
+**NOTE** : Utilize sample_product_data.json to test the APIs, but start by adding a product.
+
 ## ENDPOINTS:
 
 ### - Add Product
